@@ -7,6 +7,7 @@
 
 ## 使用说明
 这个笔记是根据书籍《机器学习实战》、sklearn官网的一个辅助资料，本项目内容对书籍《机器学习实战》每行代码进行解读等等，代码具体内容都会运行在jupyter notebook中，并加入了一些和相关的学习补充资料和参考资料，结合这些资料一起学习。相信你学习完李宏毅老师的线性代数以及机器学习、深度学习内容之后，本项目是再适合不过的学习内容了。
+
 李宏毅《机器学习》：https://github.com/datawhalechina/leeml-notes
 
 李宏毅《线性代数》：https://github.com/datawhalechina/leela-notes
